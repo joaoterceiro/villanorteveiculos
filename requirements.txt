@@ -1,0 +1,6 @@
+requests
+xmltodict
+supabase
+python-dotenv
+
+/pip install -r requirements.txt
